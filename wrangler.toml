@@ -1,0 +1,4 @@
+# Cloudflare Pages Configuration
+name = "datacrawlr-web"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
